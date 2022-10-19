@@ -1,18 +1,16 @@
 - 👋 Hi, I’m Hakan Akerblom and I'm stuying to become an AI-developer.
-- 👀 I’m interested in Machine learning and Python.
-- 🌱 I’m currently learning Machine learning and Pyhton in school.
-- 💞️ I’m not looking for collaboration at the moment.
+- 🌱 I’m currently learning Machine learning and Pyhton. Check out my projects in Github Portfolio below.
 - 📫 How to reach me: hakan.akerblom(a)gmail.com
 
 ---
 
 ## GitHub portfolio :briefcase:
 
-| Repo                           | Description                        |
-| ------------------------------ | ---------------------------------- |
-| [Machine learning][ml]         | k-nearest neighboor classifier     |
-| [Project Euler][pe]            | Solved problems on Project Euler   |
-| [Geometry Class][gc]           | Classstructure for feometric objects          |
+| Repo                           | Description                          |
+| ------------------------------ | -------------------------------------|
+| [Machine learning][ml]         | k-nearest neighboor classifier       |
+| [Project Euler][pe]            | Solved problems on Project Euler     |
+| [Geometry Class][gc]           | Classstructure for feometric objects |
 
 
 [ml]: https://github.com/HakanAkerblom/Python-Hakan-Akerblom/tree/main/Labs/Lab%202
