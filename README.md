@@ -10,7 +10,7 @@
 | ------------------------------ | -------------------------------------|
 | [Machine learning][ml]         | k-nearest neighboor classifier       |
 | [Project Euler][pe]            | Solved problems on Project Euler     |
-| [Geometry Class][gc]           | Classstructure for feometric objects |
+| [Geometry Class][gc]           | Classstructure for geometric objects |
 
 
 [ml]: https://github.com/HakanAkerblom/Python-Hakan-Akerblom/tree/main/Labs/Lab%202
