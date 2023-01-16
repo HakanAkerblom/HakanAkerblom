@@ -12,12 +12,14 @@
 | [Project Euler][pe]            | Solved problems on Project Euler     |
 | [Geometry Class][gc]           | Classtructure for geometric objects  |
 | [Advent of Code][aoc]          | Solutions to advent of Code 2022     |
+| [Kaggle][kag]                  | Kaggle contributions                 |
 
 
 [ml]: https://github.com/HakanAkerblom/Python-Hakan-Akerblom/tree/main/Labs/Lab%202
 [pe]: https://github.com/HakanAkerblom/Project-Euler
 [gc]: https://github.com/HakanAkerblom/Python-Hakan-Akerblom/tree/main/Labs/Lab%203
 [aoc]: https://github.com/HakanAkerblom/Advent-of-code
+[kag]: https://github.com/HakanAkerblom/Kaggle
 
 <!---
 HakanAkerblom/HakanAkerblom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
