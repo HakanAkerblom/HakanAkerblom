@@ -6,13 +6,14 @@
 
 ## GitHub portfolio :briefcase:
 
-| Repo                           | Description                          |
-| ------------------------------ | -------------------------------------|
-| [Machine learning][ml]         | k-nearest neighboor classifier       |
-| [Project Euler][pe]            | Solved problems on Project Euler     |
-| [Geometry Class][gc]           | Classtructure for geometric objects  |
-| [Advent of Code][aoc]          | Solutions to advent of Code 2022     |
-| [Kaggle][kag]                  | Kaggle contributions                 |
+| Repo                           | Description                                                   |
+| ------------------------------ | --------------------------------------------------------------|
+| [Cars Dataviz][cd]             | A visualisation and analysis of the auto-mpg dataset          |
+| [Machine learning][ml]         | A simple k-nearest neighboor classifier                       |
+| [Project Euler][pe]            | Collection of solved problems on Project Euler                |
+| [Geometry Class][gc]           | A Classtructure for geometric objects                         |
+| [Advent of Code][aoc]          | Collection of solved problems for the Advent of Code 2022     |
+| [Kaggle][kag]                  | Kaggle contributions                                          |
 
 
 [ml]: https://github.com/HakanAkerblom/Python-Hakan-Akerblom/tree/main/Labs/Lab%202
@@ -20,6 +21,7 @@
 [gc]: https://github.com/HakanAkerblom/Python-Hakan-Akerblom/tree/main/Labs/Lab%203
 [aoc]: https://github.com/HakanAkerblom/Advent-of-code
 [kag]: https://github.com/HakanAkerblom/Kaggle
+[cd]: https://github.com/HakanAkerblom/Statistics/tree/main/Cars%20dataviz
 
 <!---
 HakanAkerblom/HakanAkerblom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
