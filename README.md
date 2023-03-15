@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Håkan Åkerblom and I'm stuying to become an AI-developer.
-- 🌱 I’m currently learning Machine learning and Pyhton. Check out my projects in Github Portfolio below.
+- 🌱 I’m currently learning Machine learning and Python. Check out my projects in Github Portfolio below.
 - 📫 How to reach me: hakan.akerblom(a)gmail.com
 
 ---
